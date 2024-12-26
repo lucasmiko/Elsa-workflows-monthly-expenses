@@ -1,7 +1,7 @@
 ﻿using Elsa.Activities.Console;
 using Elsa.Builders;
 
-namespace Elsa_workflows_monthly_expenses
+namespace HelloWorldConsole
 {
     /// <summary>
     /// A basic workflow with just one WriteLine activity.

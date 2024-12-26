@@ -1,7 +1,7 @@
 ﻿using Elsa.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Elsa_workflows_monthly_expenses
+namespace HelloWorldConsole
 {
     class Program
     {
